@@ -3,6 +3,7 @@
 ## Index of contents
 * [Vectors](#Vectors)
 * [Images](#Images)
+* [Fonts](#Fonts)
 
 
 ## VECTORS
@@ -19,3 +20,27 @@
 * Lukasz Adam Free Illustrations (free, interesante): [Website](https://lukaszadam.com/illustrations)
 * 365cons (free, interesante): [Website](http://www.365cons.com/)
 * GetWaves (free, interesante): [Website](https://getwaves.io/)
+
+## IMAGES
+### Free copyright images and video resources
+* Unplash (free, interesante): [Website](https://unsplash.com/)
+* Pexels (free, interesante): [Website](https://www.pexels.com/)
+* Pixabay (free, interesante): [Website](https://pixabay.com/)
+* Freepik (free, interesante): [Website](https://www.freepik.com/)
+
+## FONTS
+### Free fonts resources
+* WhatTheFont (free, interesante): [Website](https://www.myfonts.com/WhatTheFont/)
+* Google Font (free, interesante): [Website](https://fonts.google.com/)
+* Font Squirrel (free, interesante): [Website](https://www.fontsquirrel.com/)
+* FontStruct (free, interesante): [Website](https://fontstruct.com/)
+* DaFont (free, interesante): [Website](https://www.dafont.com/es/)
+* FontSpace (free, interesante): [Website](https://www.fontspace.com/)
+* Abstract Fonts (free, interesante): [Website](https://www.abstractfonts.com/)
+* 1001 Fonts (free, interesante): [Website](https://www.1001fonts.com/)
+
+
+
+
+
+
